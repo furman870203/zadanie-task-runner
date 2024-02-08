@@ -1,0 +1,39 @@
+
+.navigation-brand {
+    text-decoration: none;
+    color: gold;
+    font-size: 30px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    list-style-type: none;
+    word-spacing: 30px;
+}
+li {
+    display: inline;
+}
+a {
+    text-decoration: none;
+    color: black;
+
+}img {
+    width: 100%;
+    position: absolute;
+}
+h1 {
+    position: relative;
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+h2 {
+   position: relative ;
+   color: aliceblue;
+   text-align: center;
+   font-size: 70px;
+}
