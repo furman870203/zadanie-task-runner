@@ -1,0 +1,87 @@
+
+.navigation-brand {
+    text-decoration: none;
+    color: gold;
+    font-size: 30px;
+    font-family: "vivaldi";
+}
+.home {
+    background: url(https://i.postimg.cc/mgk2MQwj/pexels-mnz-1639729.jpg);
+    background-size: cover;
+    height: 700px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    word-spacing: 30px;
+}
+li {
+    display: inline;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+h1 {
+    position: relative;
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;}
+h2 {
+   position: relative ;
+   color: aliceblue;
+   text-align: center;
+   font-size: 70px;
+}
+.button {
+    text-align: center;
+}
+.btn {
+    position: center;
+    border-style: solid;
+    border-width: px;
+    text-align: center;
+    background-color: gold;
+}
+.services {
+    margin-top: 100px;
+}
+.section-title {
+    color: black;
+    margin: 20px;
+}
+h1.section-title {
+    font-weight: bold;
+}
+h2.section-subtitle {
+    font-size: 20px;
+    color: grey;
+}
+.row {
+    margin: 60px;
+    padding: 50px;
+    
+}
+.icons i {
+    font-size: 60px;
+    color: gold;
+}
+.col-4 {
+    text-align: center;
+}
+h4 {
+    font-weight: bold;
+    font-size: 20px;
+}
+p {
+    color: grey;
+}
+.portfolio {
+    background: #dee2e6;
+    margin-top: 100px;
+}
