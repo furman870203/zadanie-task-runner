@@ -1,8 +1,7 @@
-
 .navigation-brand {
     text-decoration: none;
     color: gold;
-    font-size: 30px;
+    font-size: 60px;
     font-family: "vivaldi";
 }
 .home {
@@ -14,7 +13,6 @@
     display: flex;
     justify-content: space-between;
 }
-
 ul {
     list-style-type: none;
     word-spacing: 30px;
@@ -29,17 +27,22 @@ a {
 }
 h1 {
     position: relative;
-    color: aliceblue;
+    color: gold;
     text-align: center;
     font-size: 50px;}
 h2 {
    position: relative ;
-   color: aliceblue;
+   color: gold;
    text-align: center;
    font-size: 70px;
+   font-weight: bold;
+}
+.container-header {
+    padding-top: 150px;
 }
 .button {
     text-align: center;
+    padding: 50px;
 }
 .btn {
     position: center;
@@ -84,4 +87,7 @@ p {
 .portfolio {
     background: #dee2e6;
     margin-top: 100px;
+}
+.container-portfolio {
+    padding-top: 30px;
 }
