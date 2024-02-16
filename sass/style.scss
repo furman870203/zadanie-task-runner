@@ -91,3 +91,17 @@ p {
 .container-portfolio {
     padding-top: 30px;
 }
+.footer-icons ul li {
+    font-size: 0px;
+}
+.footer-icons ul li i {
+    font-size: 30px;
+    background: black;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    padding: 15px;
+}
+.footer-icons ul {
+    text-align: center;
+}
